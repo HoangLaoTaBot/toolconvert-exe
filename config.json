@@ -5,8 +5,5 @@
     "AUTO_CHANGE_SCREEN_SIZE_ACCOUNT": false,
     "THREAD": 1,
     "EXCEL_PATH": "C:\\Users\\ADMIN\\Desktop\\profile.xlsx",
-    "EXCEL_SHEET_NAME": "profile",
-    "ACCOUNT": "account.json",
-    "QUERY_ID": "query_id.json",
-    "WALLET": "wallet.json"
+    "EXCEL_SHEET_NAME": "profile"
 }
