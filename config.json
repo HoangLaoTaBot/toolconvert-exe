@@ -1,9 +1,9 @@
 {
-    "AUTO_CREATE_QUERY_ID": true,
+    "AUTO_CREATE_QUERY_ID": false,
     "AUTO_CREATE_WALLET": false,
     "AUTO_CREATE_ACCOUNT": false,
     "AUTO_CHANGE_SCREEN_SIZE_ACCOUNT": false,
-    "THREAD": 10,
+    "THREAD": 1,
     "EXCEL_PATH": "C:\\Users\\ADMIN\\Desktop\\profile.xlsx",
     "EXCEL_SHEET_NAME": "profile",
     "ACCOUNT": "account.json",
